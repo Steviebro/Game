@@ -1,0 +1,3 @@
+C:/CPPProjects/CPPWorkspace/MovingGame/build/CMakeFiles/MovingGame.dir
+C:/CPPProjects/CPPWorkspace/MovingGame/build/CMakeFiles/edit_cache.dir
+C:/CPPProjects/CPPWorkspace/MovingGame/build/CMakeFiles/rebuild_cache.dir
