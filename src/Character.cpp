@@ -1,6 +1,6 @@
 #include "../include/Character.h"
 
-Character::Character(std::string characterNameP, char characterSymbol) : MapCell(characterSymbol), characterName(characterNameP)
+Character::Character(std::string characterNameP) : characterName(characterNameP)
 {
 
 }

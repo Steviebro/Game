@@ -1,12 +1,14 @@
 #include <string>
 
-#include "MapCell.h"
 
 
-class Character : public MapCell {
+class Character {
 public:
-    Character(std::string characterNameP, char characterSymbol);
+    Character(std::string characterNameP);
     std::string getCharacterName() const;
 private:
     std::string characterName;
+    int level;
+    int hp;
+    int energy;
 };
