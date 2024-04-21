@@ -1,13 +1,12 @@
 cmake_minimum_required(VERSION 3.27)
-project(MovingGame)
+project(Game)
 
 
 set(CMAKE_CXX_STANDARD 17)
 
 include_directories(src)
 
-#cpp files only
-add_executable(MovingGame
+add_executable(Game
         src/main.cpp
         src/Functions.cpp
         src/Map.cpp
